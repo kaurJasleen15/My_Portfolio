@@ -14,7 +14,7 @@ body{
 #header{
     width:100%;
     height: 100vh;
-    background-image: url(C:\Users\HP\OneDrive\Desktop\personal_portfolio\images\portfolio background.jpg);
+    background: url('bg1.png') no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -308,7 +308,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(C:\Users\HP\OneDrive\Desktop\personal_portfolio\images\portfolio phone background.jpg);
+        background-image: url('/files/images/phone/background.png');
     }
     .header-text{
         margin-top: 100%;
